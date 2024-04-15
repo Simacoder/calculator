@@ -1,0 +1,5 @@
+# Requirements
+
+- Django 4.2.5
+- HTML5
+- vscode 
